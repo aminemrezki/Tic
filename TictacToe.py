@@ -1,18 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ___
-# 
-# <a href='https://www.udemy.com/user/joseportilla/'><img src='../Pierian_Data_Logo.png'/></a>
-# ___
-# <center><em>Content Copyright by Pierian Data</em></center>
-
-# # Milestone Project 1: Full Walk-through Code Solution
-# 
-# Below is the filled in code that goes along with the complete walk-through video. Check out the corresponding lecture videos for more information on this code!
-
-# **Step 1: Write a function that can print out a board. Set up your board as a list, where each index 1-9 corresponds with a number on a number pad, so you get a 3 by 3 board representation.**
-
 # In[1]:
 
 
